@@ -1,0 +1,26 @@
+{
+  "name": "academlo-bases-javascript",
+  "version": "1.0.0",
+  "description": "Practicas bases JS",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludo": "echo \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compudefierro/Academlo-bases-javascript.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "node"
+  ],
+  "author": "Jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compudefierro/Academlo-bases-javascript/issues"
+  },
+  "homepage": "https://github.com/compudefierro/Academlo-bases-javascript#readme"
+}
