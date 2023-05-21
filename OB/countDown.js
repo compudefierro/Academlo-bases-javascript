@@ -1,3 +1,5 @@
+"use strict";
+
 // recursion concat
 function rangeOfNumbersConCat(startNum, endNum) {
   return endNum < startNum

@@ -1,3 +1,5 @@
+"use strict";
+
 const SPENDING_THRESHOLD = 200;
 const TAX_RATE = 0.08;
 const PHONE_PRICE = 99.99;

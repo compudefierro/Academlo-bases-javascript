@@ -1,3 +1,5 @@
+"use strict";
+
 const user = {
   johnDoe: {
     age: 34,

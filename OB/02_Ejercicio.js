@@ -1,3 +1,5 @@
+"use strict";
+
 /*
 Crea un nuevo archivo JS que contenga una lista con los siguientes elementos:
 - Tu nombre (string)

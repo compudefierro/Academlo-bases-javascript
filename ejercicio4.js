@@ -1,3 +1,5 @@
+"use strict";
+
 // Ejercicio 4: obteniendo correos de usuarios
 // 1.Crear un arreglo con 5 objetos, cada uno de estos objetos debe de tener las propiedades nombre, email y edad, con valores asignados por ti.
 let users = [

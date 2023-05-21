@@ -1,3 +1,5 @@
+"use strict";
+
 function factorial_1(num) {
   if (num < 0) {
     throw new Error("num must not be negative");

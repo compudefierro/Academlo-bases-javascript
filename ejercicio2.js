@@ -1,3 +1,5 @@
+"use strict";
+
 // Ejercicio 2: Sumando los valores de un arreglo
 
 // Crear un array con 3 valores numericos y sumar todos esos valores accedendolos mediante las posiciones.

@@ -1,3 +1,5 @@
+"use strict";
+
 // Ejercicio 1: Creando variables
 // Crea variables para guardar los siguientes datos de una persona
 
